@@ -1,4 +1,4 @@
-# 🌐 Responsive Web Page Project
+#  Responsive Web Page Project
 
 This project is a simple **responsive HTML & CSS website** created to demonstrate how to make a webpage adapt to different screen sizes (desktop, tablet, and mobile).  
 It covers all the key steps such as layout adjustment, responsive navigation, image scaling, and media queries.
@@ -6,7 +6,7 @@ It covers all the key steps such as layout adjustment, responsive navigation, im
 
 ---
 
-## 🚀 Features
+##  Features
 
   **Responsive Layout** – Adjusts automatically for screens below `768px`.  
   **Flexible Navigation** – Navigation bar stacks vertically on smaller devices.  
